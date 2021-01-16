@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../web-backend"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {}
