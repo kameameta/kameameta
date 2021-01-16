@@ -1,4 +1,4 @@
-# mea.
+# Mea.
 
 A starting point to **make** great **things**.
 
