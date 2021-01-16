@@ -7,5 +7,5 @@ A starting point to **make** great **things**.
 
 ### Services
 
-[kameataumea/web-frontend](https://github.com/kameataumea/web-frontend) -- A TypeScript React frontend with OIDC auth.
-[kameataumea/web-backend](https://github.com/kameataumea/web-backend) -- A Go/Gin REST backend.
+- [kameataumea/web-frontend](https://github.com/kameataumea/web-frontend) — A TypeScript React frontend with OIDC auth.
+- [kameataumea/web-backend](https://github.com/kameataumea/web-backend) — A Go/Gin REST backend.
