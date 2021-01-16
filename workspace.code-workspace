@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../web-frontend"
+		},
+		{
+			"path": "../web-backend"
+		}
+	],
+	"settings": {}
+}
