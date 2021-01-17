@@ -7,8 +7,21 @@
 			"path": "../web-backend"
 		},
 		{
+			"path": "../web-auth-proxy"
+		},
+		{
+			"path": "../deploy-docker-compose"
+		},
+		{
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"web-backend",
+			"web-auth-proxy",
+			"deploy-docker-compose",
+			"kameataumea"
+		  ],
+	}
 }
