@@ -7,7 +7,7 @@ A starting point to **make** great **things**.
 
 ### Services
 
-- [kameataumea/web-frontend](https://github.com/kameataumea/web-frontend) — A TypeScript React frontend with OIDC auth.
-- [kameataumea/web-backend](https://github.com/kameataumea/web-backend) — A Go/Gin REST backend.
-- [kameataumea/web-auth-proxy](https://github.com/kameataumea/web-auth-proxy) — A zero-trust auth proxy to authenticate API requests.
-- [kameataumea/deploy-docker-compose](https://github.com/kameataumea/deploy-docker-compose) — Docker compose config to deploy the whole stack.
+- [kameameta/web-frontend](https://github.com/kameameta/web-frontend) — A TypeScript React frontend with OIDC auth.
+- [kameameta/web-backend](https://github.com/kameameta/web-backend) — A Go/Gin REST backend.
+- [kameameta/web-auth-proxy](https://github.com/kameameta/web-auth-proxy) — A zero-trust auth proxy to authenticate API requests.
+- [kameameta/deploy-docker-compose](https://github.com/kameameta/deploy-docker-compose) — Docker compose config to deploy the whole stack.
