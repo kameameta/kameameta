@@ -21,7 +21,7 @@
 			"web-backend",
 			"web-auth-proxy",
 			"deploy-docker-compose",
-			"kameataumea"
+			"kameameta"
 		  ],
 	}
 }
