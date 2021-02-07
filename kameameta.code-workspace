@@ -13,6 +13,12 @@
 			"path": "../deploy-docker-compose"
 		},
 		{
+			"path": "../db-tasks"
+		},
+		{
+			"path": "../svc-tasks"
+		},
+		{
 			"path": "."
 		}
 	],
@@ -21,7 +27,9 @@
 			"web-backend",
 			"web-auth-proxy",
 			"deploy-docker-compose",
-			"kameameta"
+			"kameameta",
+			"db-tasks",
+			"svc-tasks"
 		  ],
 	}
 }
